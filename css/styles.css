@@ -9,5 +9,36 @@ h1 {
   text-align: center;
   color: #333;
 }
+#lista{
+  display: flex;
+  border: 1px solid black;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  
+  justify-content: center;
+  padding: 20px;
+  gap: 10px;
+  color: rgb(0, 0, 0);
+  background-color: blanchedalmond;
+}
+li{
+  display: inline-block;
+  justify-content: center;
+  align-items: ;
+  list-style: none;
+  border: 1px solid black;
+}
+li img{
+  
+  width: 400px;
+}
 
 
+li p{
+  width: 400px;
+  border: 1px solid black;
+  padding: 10px;
+  background: white;
+}
