@@ -26,7 +26,7 @@ ul{
 li{
   display: inline-block;
   justify-content: center;
-  align-items: ;
+  
   list-style: none;
   border: 1px solid black;
 }
